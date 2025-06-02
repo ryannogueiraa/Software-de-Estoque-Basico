@@ -1,0 +1,8 @@
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\SoftwareDeEstoque\SoftwareDeEstoque\bin\Debug\SoftwareDeEstoque.exe.config
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\SoftwareDeEstoque\SoftwareDeEstoque\bin\Debug\SoftwareDeEstoque.exe
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\SoftwareDeEstoque\SoftwareDeEstoque\bin\Debug\SoftwareDeEstoque.pdb
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\SoftwareDeEstoque\SoftwareDeEstoque\obj\Debug\SoftwareDeEstoque.csproj.AssemblyReference.cache
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\SoftwareDeEstoque\SoftwareDeEstoque\obj\Debug\SoftwareDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\SoftwareDeEstoque\SoftwareDeEstoque\obj\Debug\SoftwareDeEstoque.exe
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\SoftwareDeEstoque\SoftwareDeEstoque\obj\Debug\SoftwareDeEstoque.pdb
+C:\Users\ryann\OneDrive\Área de Trabalho\Programação\C#\Projetos\SoftwareDeEstoque\SoftwareDeEstoque\obj\Debug\SoftwareDeEstoque.exe.config
