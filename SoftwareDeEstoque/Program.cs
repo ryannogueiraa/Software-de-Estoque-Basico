@@ -285,7 +285,7 @@ namespace SoftwareDeEstoque
         {
             Console.WriteLine("Lista de produtos: ");
 
-            if (File.Exists("Produtos.txt"))
+            if (File.Exists("produtos.txt"))
             {
                 string[] linhas = File.ReadAllLines("produtos.txt");
 
