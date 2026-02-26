@@ -40,10 +40,9 @@ Este projeto demonstra aplicação prática de:
 
 ## 📂 Como Funciona o Armazenamento
 
-Os dados são armazenados no arquivo: produto.txt
-Cada produto é salvo no formato:
+Os dados são armazenados no arquivo: produto.txt, onde
+cada produto é salvo no formato:
 00001| Nome: Mouse| Quantidade: 10| Valor: 59.90
-
 
 🔹 Código gerado automaticamente com 5 dígitos (`D5`)  
 🔹 Separação por `|`  
