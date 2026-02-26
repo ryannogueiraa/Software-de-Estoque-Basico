@@ -75,12 +75,3 @@ O arquivo é criado automaticamente caso não exista.
 🎯 Formatação:
 - Código com `"D5"`
 - Valor com `"F2"`
-
----
-
-## ▶️ Como Executar
-
-1️⃣ Clone o repositório:
-
-```bash
-git clone https://github.com/ryannogueiraa/Software-de-Estoque-Basico.git
